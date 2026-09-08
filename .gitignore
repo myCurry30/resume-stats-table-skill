@@ -1,0 +1,16 @@
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 内部模板与临时文件（请勿提交）
+固定模板.xlsx
+*_新增.xlsx
+*.bak
+_extracted/
+_skill_build/
